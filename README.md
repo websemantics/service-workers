@@ -23,6 +23,14 @@
 
 A great introduction to *Service Workers* can be found in the [References](#references) sections.
 
+There are three events that need to be handled,
+
+- Install,
+- Activate, and
+- Fetch.
+
+The *install* event is fired once, *activate* after *instal* and every time a pgage from the registered domain is loaded (but not between pages from the same domain), and *fetch*, every time a page is requested.
+
 
 ## References
 

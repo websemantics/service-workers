@@ -1,19 +1,4 @@
-```
-                        ___                                           
-         _   _        (  _`\                      _                  
-        ( \_/ )       | (_(_)   __   _ __  _   _ (_)   ___    __     
-       __) _ (__      `\__ \  /'__`\( '__)( ) ( )| | /'___) /'__`\                   _   _
-      (__ (_) __)     ( )_) |(  ___/| |   | \_/ || |( (___ (  ___/                  ( \_/ )
-         ) _ (        `\____)`\____)(_)   `\___/'(_)`\____)`\____)     _   _       __) _ (__
-        (_/ \_)                                                _   _  ( \_/ )  _  (__ (_) __)         
-      _   _   _               _                               ( \_/ )__) _ (__( \_/ )) _ (      
-     ( ) ( ) ( )   _    _ __ ( )/')    __   _ __   ___       __) _ ((__ (_) __)) _ ((_/ \_)       
-     | | | | | | /'_`\ ( '__)| , <   /'__`\( '__)/',__)     (__ (_) __)) _ ((__ (_) __)        
-     | (_/ \_) |( (_) )| |   | |\`\ (  ___/| |   \__, \        ) _ (  (_/ \_)  ) _ (           
-     `\___x___/'`\___/'(_)   (_) (_)`\____)(_)   (____/       (_/ \_)         (_/ \_)           
-
-```
-
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Service Workers" />
 > A simple implementation of off-line content cache based on service workers,
 
 ### [Demo](https://websemantics.github.io/service-workers/)&nbsp;&nbsp;&nbsp;[Getting Started](#getting-started)&nbsp;&nbsp;&nbsp;[Submit Issue](https://github.com/websemantics/service-workers/issues)

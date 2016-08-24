@@ -16,8 +16,12 @@
 
 > A simple implementation of off-line content cache based on service workers,
 
+### [Demo](https://websemantics.github.io/service-workers/)&nbsp;&nbsp;&nbsp;[Getting Started](#getting-started)&nbsp;&nbsp;&nbsp;[Submit Issue](https://github.com/websemantics/service-workers/issues)
+
 
 ## Getting Started
+
+A great introduction to *Service Workers* can be found in the [References](#references) sections.
 
 
 ## References

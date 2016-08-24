@@ -23,3 +23,5 @@
 ## References
 
 [Article](https://madebymike.com.au//writing/service-workers/?utm_source=codropscollective), Offline content with service workers.
+
+[The Service Worker](https://jakearchibald.com/2014/offline-cookbook/), The offline cookbook.

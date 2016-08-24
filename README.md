@@ -31,6 +31,8 @@ There are three events that need to be handled,
 
 The *install* event is fired once, *activate* after *instal* and every time a pgage from the registered domain is loaded (but not between pages from the same domain), and *fetch*, every time a page is requested.
 
+                            **WORK IN PROGRESS**
+
 
 ## References
 
